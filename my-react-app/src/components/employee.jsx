@@ -1,4 +1,10 @@
+
+
+
+
 function Employee({ name, department }) {
+
+    
   return (
     <div>
       <h2>{name}</h2>
@@ -7,3 +13,4 @@ function Employee({ name, department }) {
   );
 }
 export default Employee;
+
